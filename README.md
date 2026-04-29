@@ -32,9 +32,7 @@ Currently working with:
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=TarasBanan&show_icons=true&hide_border=true&theme=github_dark" />
-</p>
-
-<p>
+  
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarasBanan&layout=compact&hide_border=true&theme=github_dark" />
 </p>
 
